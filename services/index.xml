@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Future.Today.</title>
+    <link>https://q-bit.io/services/</link>
+    <description>Recent content in Services on Future.Today.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://q-bit.io/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Development</title>
+      <link>https://q-bit.io/services/web-development/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      <guid>https://q-bit.io/services/web-development/</guid>
+      <description>Creating Modern Websites Web design encompasses many different skills and disciplines in the production and maintenance of websites.&#xA;Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.&#xA;What is Web Design? User experience is about how a user interacts with, and experiences, a particular product, system or service.</description>
+    </item>
+    <item>
+      <title>Software Engineering</title>
+      <link>https://q-bit.io/services/software-engineering/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://q-bit.io/services/software-engineering/</guid>
+      <description>Creating Modern Websites Web design encompasses many different skills and disciplines in the production and maintenance of websites.&#xA;Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.&#xA;What is Web Design? User experience is about how a user interacts with, and experiences, a particular product, system or service.</description>
+    </item>
+    <item>
+      <title>SEO</title>
+      <link>https://q-bit.io/services/seo/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://q-bit.io/services/seo/</guid>
+      <description>Creating Modern Websites Web design encompasses many different skills and disciplines in the production and maintenance of websites.&#xA;Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.&#xA;What is Web Design? User experience is about how a user interacts with, and experiences, a particular product, system or service.</description>
+    </item>
+    <item>
+      <title>Branding</title>
+      <link>https://q-bit.io/services/branding/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://q-bit.io/services/branding/</guid>
+      <description>Creating Modern Websites Web design encompasses many different skills and disciplines in the production and maintenance of websites.&#xA;Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.&#xA;What is Web Design? User experience is about how a user interacts with, and experiences, a particular product, system or service.</description>
+    </item>
+    <item>
+      <title>Web Design</title>
+      <link>https://q-bit.io/services/web-design/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      <guid>https://q-bit.io/services/web-design/</guid>
+      <description>Creating Modern Websites Web design encompasses many different skills and disciplines in the production and maintenance of websites.&#xA;Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.&#xA;What is Web Design? User experience is about how a user interacts with, and experiences, a particular product, system or service.</description>
+    </item>
+    <item>
+      <title>User Experience</title>
+      <link>https://q-bit.io/services/user-experience/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      <guid>https://q-bit.io/services/user-experience/</guid>
+      <description>Creating Modern Websites Web design encompasses many different skills and disciplines in the production and maintenance of websites.&#xA;Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.&#xA;What is Web Design? User experience is about how a user interacts with, and experiences, a particular product, system or service.</description>
+    </item>
+  </channel>
+</rss>
